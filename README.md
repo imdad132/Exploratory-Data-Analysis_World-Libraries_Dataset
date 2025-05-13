@@ -1,4 +1,4 @@
-# Exploratory-and-Statistical-Analysis_World-Libraries_Dataset
+# Exploratory Data Analysis_World-Libraries_Dataset
 
 ## Data Import and Setup
 
@@ -28,7 +28,7 @@ Prints these distributions to show which regions have the highest values for eac
 ## Data Visualizations 
 
 ### Libraries vs Users Scatter Plot
-The part helps creating a scatter plot visualizing the relationship between the number of libraries and users. It calculates and displays the correlation coefficient between these two variables in the plot's title, helping to quantify the strength of this relationship. The visualization is then saved as a PNG file.
+This part helps creating a scatter plot visualizing the relationship between the number of libraries and users. It calculates and displays the correlation coefficient between these two variables in the plot's title, helping to quantify the strength of this relationship. The visualization is then saved as a PNG file.
 
 ### Regional User Analysis Bar Chart
 This visualization shows the total number of library users by region in a bar chart format. The data is grouped by region, the total users for each region are summed, and the results are displayed in a bar chart. This visualization provides a clear comparison of library usage across different global regions.
@@ -47,4 +47,4 @@ Saves this interactive visualization as an HTML file and displays it in the note
 This interactive map provides a geographical perspective on library distribution across world regions, making patterns more immediately visible than in tabular data.
 
 ## Programming language
--Python
+- Python
