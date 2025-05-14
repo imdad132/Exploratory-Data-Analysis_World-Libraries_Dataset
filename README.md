@@ -15,10 +15,12 @@ Removing all rows that contain any missing values to ensure complete data for an
 Dropping three columns that aren't needed for the analysis: "Country", "Expenditures", and "Total Librarians"
 
 ## Correlation Analysis
-The code performs correlation analysis on three numerical columns: 'Total Libraries', 'Total Volumes', and 'Total Users'. This creates a correlation matrix showing how strongly these variables are related to each other, with coefficients ranging from -1 (strong negative correlation) to 1 (strong positive correlation).
+The code analyses correlation on three numerical columns: 'Total Libraries', 'Total Volumes', and 'Total Users'. 
+This creates a correlation matrix showing how strongly these variables are related to each other, with coefficients ranging from -1 (strong negative correlation) to 1 (strong positive correlation).
 
 ## Regional Analysis
-This section conducts a detailed regional analysis for each of the three key metrics. For each metric (Total Libraries, Total Volumes, Total Users), the code:
+This section conducts a detailed regional analysis for each of the three key metrics.
+For each metric (Total Libraries, Total Volumes, Total Users), the code:
 
 Calculates the total sum across all regions
 Determines each region's percentage contribution to the global total
@@ -48,3 +50,11 @@ This interactive map provides a geographical perspective on library distribution
 
 ## Programming language
 - Python
+
+## About the dataset
+About the Global Library Statistics
+Updated May 2016
+Data last revised: July 15, 2016
+Questions?  Contact the OCLC Library - oclclibrary@oclc.org 
+![image](https://github.com/user-attachments/assets/69a002b5-3368-4572-86e4-69b77ea5c9da)
+
